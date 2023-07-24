@@ -1,0 +1,10 @@
+{
+  "name": "Pack Name",
+  "description": "SFX pack made using menu sounds from Sonic Aventure 1 and 2.",
+  "author": "TekisenGH",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
